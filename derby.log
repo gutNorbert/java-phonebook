@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Jan 06 17:56:26 CET 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0160-cc66-f0eb-00000678e7b0 
+on database directory C:\_Programming\Java-SFJ\PhoneBook\sampleDB with class loader sun.misc.Launcher$AppClassLoader@55f96302 
+Loaded from file:/C:/_Programming/Java-SFJ/PhoneBook/dist/run113554469/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=C:\_Programming\Java-SFJ\PhoneBook
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
